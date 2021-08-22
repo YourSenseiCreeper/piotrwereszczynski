@@ -3,13 +3,13 @@
 My name is Piotr Wereszczyński, I'm from Poland and I'm a 22-year old programmer mostly interested in .NET technology stack. Recently learning Angular + Ngrx. I'm open mided and looking for interesting open source projects.
 
 ### Projects I take/took part in:
-- Translating and coding **[pcottle.github.com/learnGitBranching/?demo](pcottle.github.com/learnGitBranching/?demo)**
-- Translating [Link Lock](https://github.com/jstrieb/link-lock) - translation: [yoursenseicreeper.github.io/link-lock](yoursenseicreeper.github.io/link-lock)
+- Translating and coding **[https://learngitbranching.js.org/?demo=&locale=pl](https://learngitbranching.js.org/?demo=&locale=pl)**
+- Translating [Link Lock](https://github.com/jstrieb/link-lock) - translation: [yoursenseicreeper.github.io/link-lock](https://yoursenseicreeper.github.io/link-lock/create/)
 - Translatig [Calc10](https://github.com/JustAeris/Calc10)
 - [Check the COVID-19](https://github.com/Shaidel/Check-the-COVID-19)
 - Personal [MarioPizzaOriginal](https://github.com/YourSenseiCreeper/MarioPizzaOriginal) - command line restaurant management system
 - Personal [OgonDoGory](https://github.com/YourSenseiCreeper/OgonDoGory) - Animal shelter homepage
-- Personal [Photobook Helper](https://github.com/YourSenseiCreeper/PhotobookHelper) - WinForms
+- Personal [Photobook Helper](https://github.com/YourSenseiCreeper/PhotobookHelper) - WinForms people marking tool for making personal photobooks
 ### Techniques, technology I've learned, used or currently using
 - Scrum (may - sep 2018, jun - sep 2019, jul 2020 - now)
 - Git and git cmds (feb 2020)
