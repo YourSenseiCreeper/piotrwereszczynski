@@ -3,6 +3,7 @@
 My name is Piotr Wereszczyński, I'm from Poland and I'm a 22-year old programmer mostly interested in .NET technology stack. Recently learning Angular + Ngrx. I'm open mided and looking for interesting open source projects.
 
 ### Projects I take/took part in:
+- Translating [PicView](https://github.com/Ruben2776/PicView)
 - Translating and coding **[https://learngitbranching.js.org/?demo=&locale=pl](https://learngitbranching.js.org/?demo=&locale=pl)**
 - Translating [Link Lock](https://github.com/jstrieb/link-lock) - translation: [yoursenseicreeper.github.io/link-lock](https://yoursenseicreeper.github.io/link-lock/create/)
 - Translatig [Calc10](https://github.com/JustAeris/Calc10)
