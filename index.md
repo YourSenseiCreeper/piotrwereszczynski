@@ -11,6 +11,14 @@ My name is Piotr Wereszczyński, I'm from Poland and I'm a 22-year old programme
 - Personal [MarioPizzaOriginal](https://github.com/YourSenseiCreeper/MarioPizzaOriginal) - command line restaurant management system
 - Personal [OgonDoGory](https://github.com/YourSenseiCreeper/OgonDoGory) - Animal shelter homepage
 - Personal [Photobook Helper](https://github.com/YourSenseiCreeper/PhotobookHelper) - WinForms people marking tool for making personal photobooks
+- Personal [github-connections](https://github.com/YourSenseiCreeper/github-connections) - visualization of github api
+- Personal **Bechelor's thesis** - ThreeDotDish - restaurant management application based on [ABP Framework](https://aspnetboilerplate.com/)
+- Personal [boldedfastreading](https://yoursenseicreeper.github.io/boldedfastreading/) - static site that bolds the first letter of words to check if it helps read the text faster
+
+### Organizations I belong
+
+- Students group [.NET Group of Technology University of Koszalin](https://github.com/Grupa-NET-PK)
+
 ### Techniques, technology I've learned, used or currently using
 - Scrum (may - sep 2018, jun - sep 2019, jul 2020 - now)
 - Git and git cmds (feb 2020)
